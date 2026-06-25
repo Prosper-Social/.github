@@ -1,43 +1,59 @@
 # Prosper Social
 
+### AI-native social network built in France.
+
+Empowering creators, media, businesses and communities with the next generation of social networking.
 > Exprimez vos idées. Bâtissez votre réputation.
+# PROSPER SOCIAL
 
-Prosper Social est un réseau social IA-native réunissant publications, communautés, articles, podcasts, médias et événements en direct.
+> AI-native social network built in France.
 
-## Que peut-on faire sur Prosper ?
+Empowering creators, media, businesses and communities with the next generation of social networking.
 
-- Publier et partager du contenu
-- Rejoindre des communautés
-- Rédiger des articles
-- Créer et écouter des podcasts
-- Participer à des événements en direct
-- Suivre les médias, créateurs, entreprises et institutions
+---
 
-## Développement
+## Our mission
 
-Le projet est actuellement en phase de développement actif.
+We believe social platforms should empower people to build their reputation, create meaningful communities and share knowledge in a trusted environment.
 
-### Fonctionnalités
+---
 
-- ✅ Authentification
-- ✅ Profils utilisateurs
-- ✅ Publications
-- ✅ Communautés
-- 🔄 Articles
-- 🔄 Podcasts
-- 🔄 Lives
-- 🔄 Applications mobiles
+## Platform
 
-### Calendrier prévisionnel
+- 🌍 Social Feed
+- 👥 Communities
+- 📝 Articles
+- 🎙 Podcasts
+- 💬 Messaging
+- 🤖 AI-powered features
+- 📈 Audience analytics
 
-🇫🇷 Lancement France : T3 2026
+---
 
-🇪🇺 Déploiement européen : T4 2026
+## Technology
 
-## Liens
+- Next.js
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- Cloudflare
+- OVHcloud
+
+---
+
+## Status
+
+🚧 Active development
+
+Private beta coming soon.
+
+---
+
+## Links
 
 🌐 https://prosper-social.com
 
-ℹ️ https://about.prosper-social.com
+📖 https://about.prosper-social.com
 
-💼 https://www.linkedin.com/company/prosper-social
+💼 LinkedIn https://www.linkedin.com/company/prosper-social
