@@ -1,59 +1,14 @@
 # Prosper Social
 
-### AI-native social network built in France.
+**Exprimez vos idées. Bâtissez votre réputation.**
 
-Empowering creators, media, businesses and communities with the next generation of social networking.
-> Exprimez vos idées. Bâtissez votre réputation.
-# PROSPER SOCIAL
+Prosper Social is a European social platform for creators, media and communities: posts, articles, newsletters, podcasts, lives, communities and messaging, all in one place.
 
-> AI-native social network built in France.
-
-Empowering creators, media, businesses and communities with the next generation of social networking.
-
----
-
-## Our mission
-
-We believe social platforms should empower people to build their reputation, create meaningful communities and share knowledge in a trusted environment.
-
----
-
-## Platform
-
-- 🌍 Social Feed
-- 👥 Communities
-- 📝 Articles
-- 🎙 Podcasts
-- 💬 Messaging
-- 🤖 AI-powered features
-- 📈 Audience analytics
-
----
-
-## Technology
-
-- Next.js
-- React
-- TypeScript
-- Supabase
-- PostgreSQL
-- Cloudflare
-- OVHcloud
-
----
-
-## Status
-
-🚧 Active development
-
-Private beta coming soon.
-
----
+Creators publish for free and get paid directly by their audience, with an 8% commission and no mandatory subscription.
 
 ## Links
 
-🌐 https://prosper-social.com
-
-📖 https://about.prosper-social.com
-
-💼 LinkedIn https://www.linkedin.com/company/prosper-social
+- Platform: https://prosper-social.com
+- About us: https://about.prosper-social.com
+- Help center and guides: https://hub.prosper-social.com
+- Contact: contact@prosper-social.com
